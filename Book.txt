@@ -1,0 +1,4 @@
+author=Herbert Schildt, title=Java, year=2010, pages=500
+author=Eric Freeman, title=Patterns, year=2000, pages=641
+author=John Smith, title=FoxNews, year=1990, days=7, gloss=true
+author=NoName, title=MK, year=1987, days=1, color=false
